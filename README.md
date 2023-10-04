@@ -16,12 +16,11 @@ Each square may contain one of the following:
 
 How each type of content is represented in the test cases included in hw3.py:
 
-Content      |   Integer   |  ACII
-----------------------------------
-blank        |      0      |  ' '
-wall         |      1      |  '#'
-box          |      2      |  '$'
-keeper       |      3      |  '@'
-goal         |      4      |  '.'
-box+goal     |      5      |  '*'
-keeper+goal  |      6      |  '+'
+Content, Integer, ACII
+blank, 0, ' ' (blank space)
+wall, 1, '#'
+box, 2, '$'
+keeper, 3, '@'
+goal, 4, '.'
+box+goal, 5, '*'
+keeper+goal, 6, '+'
